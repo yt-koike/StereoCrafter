@@ -71,7 +71,6 @@ chmod a+x install.sh
 
 ```bash
 # in StereoCrafter project root directory
-mkdir weights
 cd ./weights
 git lfs install
 git clone https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1
